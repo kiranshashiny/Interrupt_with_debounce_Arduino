@@ -1,4 +1,4 @@
-# Interrupt_with_debounce_Arduino
+# Interrupt_with_Debounce_Arduino
 
 This code is a mix of Interrupts and also catching debounce ( which is not in the regular Arduino File Examples )
 
